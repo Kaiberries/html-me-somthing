@@ -1,0 +1,38 @@
+body {
+    background-image: url("Nature2.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin: auto;
+    width:50%;
+    font-family: marker felt, fantasy;
+    font-size: 300%;
+}
+
+h4 {
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    width:46%;
+    font-family: marker felt, fantasy;
+    font-size: 125%;
+}
+
+p {
+    margin: auto;
+    width: 75%;
+    font-family: comic sans ms, cursive, sans-serif;
+}
+
+.center {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 55%;
+}
+
+footer {
+    margin-right: auto;
+    width: 30%;
+}
